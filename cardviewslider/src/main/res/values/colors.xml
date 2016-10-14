@@ -5,4 +5,7 @@
     <color name="colorAccent">#FF4081</color>
     <color name="active_circle">@android:color/white</color>
     <color name="inactive_circle">#757575</color>
+    <color name="bg_color">#757575</color>
+    <color name="black_transparent_image">#46000000</color>
+    <color name="black_transparent">#14000000</color>
 </resources>
